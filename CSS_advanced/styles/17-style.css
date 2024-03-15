@@ -97,7 +97,7 @@ a:active {
     color: var(--section-title-color);
 }
 
-section {
+.section {
     padding: var(--section-padding);
 }
 
