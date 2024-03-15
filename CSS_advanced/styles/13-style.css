@@ -46,6 +46,11 @@ a:link {
     font-style: italic;
 }
 
+a::after:hover {
+    text-decoration-line: underline;
+    background-color: var(--color-light-grey);
+}
+
 .visually-hidden {
     display: none;
 }
