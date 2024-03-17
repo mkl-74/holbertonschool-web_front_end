@@ -252,7 +252,7 @@ a:active {
     color: var(--color-white);
 }
 
-nav .nav-link::before {
+nav .nav-link:before {
     content: "";
     position: absolute;
     top: 0;
